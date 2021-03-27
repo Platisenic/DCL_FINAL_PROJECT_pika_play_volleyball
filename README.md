@@ -36,7 +36,7 @@
 <img src="./demo/picture1.jpg" alt="drawing" width="400"/> <img src="./demo/picture2.jpg" alt="drawing" width="420"/>
 
 ## Demo Video
-<iframe src="./demo/pikademo.mp4" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen/>
+![IMAGE ALT TEXT HERE](./demo/pikademo.gif)
 
 
 
