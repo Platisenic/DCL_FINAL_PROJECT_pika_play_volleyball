@@ -36,7 +36,7 @@
 <img src="./demo/picture1.jpg" alt="drawing" width="400"/> <img src="./demo/picture2.jpg" alt="drawing" width="420"/>
 
 ## Demo Video
-![IMAGE ALT TEXT HERE](./demo/pikademo.gif)
+![<div height=400/>](./demo/pikademo.gif)
 
 
 
